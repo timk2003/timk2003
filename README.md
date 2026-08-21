@@ -1,14 +1,35 @@
-# 💫 About Me:
-👋 Hey, I'm Tim!<br><br>🚀 Frontend Developer & Software Enthusiast<br>🎯 B2B SaaS & Web App Creator<br>📍 Based in Germany<br><br>💡 I love building clean & high-performance apps that solve real problems. Whether it's web or mobile, I focus on modern technologies and keeping things simple.
+## Tim Krisch
 
+Full-stack developer and founder, based in Germany. I build small, fast products
+people actually use — web and mobile, occasionally native macOS.
+Currently working on [FellAkte](https://fellakte.de).
 
-# 💻 Tech Stack:
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+### Products
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+**[FellAkte](https://fellakte.de)** — Mobile-first health records for dogs and cats, with automated vaccination tracking and reminders. *Flutter · Firebase · Cloud Functions · Node*
+
+**Spendory** — Expense tracking for people who want their personal finances to stay simple. *Flutter · Firebase · Next.js*
+
+**[Proofio](https://proofio.app)** — Review intelligence: turning customer feedback into something a business can act on. *Next.js · SwiftUI · Firebase · TypeScript*
+
+**[HookTap](https://hooktap.de)** — Webhook push notifications for developers, with native macOS and Windows clients. *Node · Firebase · SwiftUI*
+
+### Open source
+
+Small, quiet macOS apps. No accounts, no analytics, MIT licensed.
+
+**[Still](https://github.com/timk2003/Still)** — A screensaver that shows the time and little else. Seven themes, a word clock, adaptive theming.
+
+**[TodayStrip](https://github.com/timk2003/TodayStrip)** — One line in the menu bar showing whatever matters most right now: next event, timer, Focus, battery, weather. Join calls in one click.
+
+**[QRFloat](https://github.com/timk2003/QRFloat)** — Detects QR codes anywhere on your displays and turns them into clickable floating overlays.
+
+### Working with
+
+**Frontend** — TypeScript · React · Next.js · Tailwind · SwiftUI · Flutter
+
+**Backend** — Node.js · Python · Firebase · Supabase · Postgres · Google Cloud
 
 ---
-[![](https://visitcount.itsvg.in/api?id=timk2003&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[timkrisch.dev](https://timkrisch.dev)
