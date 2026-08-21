@@ -21,7 +21,7 @@ I build small, fast products people actually use — web and mobile, occasionall
 <td><sub>Node · Firebase · SwiftUI</sub></td>
 </tr>
 <tr>
-<td><b>Spendory</b></td>
+<td><b><a href="https://apps.apple.com/de/app/spendory/id6752488645">Spendory</a></b></td>
 <td>Expense tracking for people who want personal finance to stay simple</td>
 <td><sub>Flutter · Firebase · Next.js</sub></td>
 </tr>
